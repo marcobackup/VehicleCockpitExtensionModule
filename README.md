@@ -17,7 +17,7 @@
     <a target="_blank" href="https://www.linkedin.com/in/marco-sgr%C3%B2"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <p align="center">
-    <strong>Vehicle cockpit extension module</strong> is an additional vehicle's CAN node working on low speed B-CAN (50kbit/s) that processes and shows car parameters and faults.
+    <strong>Vehicle cockpit extension module</strong> (VCEM) is an additional vehicle's CAN node working on low speed B-CAN (50kbit/s) that processes and shows car parameters and faults.
 </p>
 
 <p align="center">
