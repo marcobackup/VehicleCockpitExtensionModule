@@ -1,2 +1,2 @@
-# Vehicle cockpit extension module - VCEM
-An additional vehicle's CAN node working on low speed B-CAN that process and show car parameters and faults
+# VCEM - Vehicle cockpit extension module
+An additional vehicle's CAN node working on low speed B-CAN (50kbit/s) that processes and shows car parameters and faults.
