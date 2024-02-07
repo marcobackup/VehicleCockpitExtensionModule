@@ -20,6 +20,7 @@ You can see different frame of VCEM
             <img src="https://github.com/marcobackup/VehicleCockpitExtensionModule/blob/main/design/red%20version/admin%20settings%20-%20test%20attuatori.png?raw=true" alt="VCEM SETTINGS">
         </td>
     </tr>
+</table>
 
 ## BLUE
 <table>
