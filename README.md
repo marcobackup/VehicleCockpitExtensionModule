@@ -16,7 +16,7 @@
 
 <h1 align="center">
   <a href="https://github.com/marcobackup/VehicleCockpitExtensionModule/">
-    <img src="https://github.com/marcobackup/VehicleCockpitExtensionModule/blob/main/docs/UIScreenshot/home_red.png?raw=true" alt="VCEM">
+    <img src="https://github.com/marcobackup/VehicleCockpitExtensionModule/blob/main/docs/UIScreenshot/homeRed.png?raw=true" alt="VCEM">
   </a>
 </h1>
 
@@ -37,3 +37,12 @@ The **MCU** is responsible for **sniffing the packets** from the CAN bus, **proc
 The **processed CAN packets** and the **system settings** are **sent** to the MPU / SoC.
 
 Instead, the **MPU / SoC** takes care of deserializing the can frames and **displaying** them on a UI built with qt creator or **starting some system routines**.
+
+
+## Diagram
+Here's a system diagram to explain the system workflow
+<h1 align="center">
+  <a href="https://github.com/marcobackup/VehicleCockpitExtensionModule/">
+    <img src="https://github.com/marcobackup/VehicleCockpitExtensionModule/blob/main/docs/VCEMDiagramWorkflow.png?raw=true" alt="VCEM">
+  </a>
+</h1>
