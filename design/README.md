@@ -11,8 +11,6 @@ You can see different frame of VCEM
             <img src="https://raw.githubusercontent.com/marcobackup/VehicleCockpitExtensionModule/main/design/red%20version/home%20-%20rpm.png" alt="VCEM RPM">
         </td>
     </tr>
-</table>
-<table>
     <tr>
         <td>
             <img src="https://github.com/marcobackup/VehicleCockpitExtensionModule/blob/main/design/red%20version/user%20settings%20-%20impostazioni.png?raw=true" alt="VCEM SETTINGS">
@@ -24,6 +22,7 @@ You can see different frame of VCEM
             <img src="https://github.com/marcobackup/VehicleCockpitExtensionModule/blob/main/design/red%20version/admin%20settings%20-%20test%20attuatori.png?raw=true" alt="VCEM SETTINGS">
         </td>
     </tr>
+</table>
 
 ## BLUE
 <table>
