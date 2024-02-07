@@ -5,19 +5,19 @@ You can see different frame of VCEM
 <table>
     <tr>
         <td>
-            <img src="https://github.com/marcobackup/VehicleCockpitExtensionModule/blob/main/design/red version/homeRed.png?raw=true" alt="VCEM RPM">
+            <img src="https://raw.githubusercontent.com/marcobackup/VehicleCockpitExtensionModule/main/design/red%20version/home%20-%20speed.png" alt="VCEM RPM">
         </td>
         <td>
-            <img src="https://github.com/marcobackup/VehicleCockpitExtensionModule/blob/main/design/red version/homeRed.png?raw=true" alt="VCEM SPEED">
+            <img src="https://raw.githubusercontent.com/marcobackup/VehicleCockpitExtensionModule/main/design/red%20version/home%20-%20speed.png" alt="VCEM SPEED">
         </td>
         <td>
-            <img src="https://github.com/marcobackup/VehicleCockpitExtensionModule/blob/main/design/red version/homeRed.png?raw=true" alt="VCEM SETTINGS">
+            <img src="https://raw.githubusercontent.com/marcobackup/VehicleCockpitExtensionModule/main/design/red%20version/home%20-%20speed.png" alt="VCEM SETTINGS">
         </td>
         <td>
-            <img src="https://github.com/marcobackup/VehicleCockpitExtensionModule/blob/main/design/red version/homeRed.png?raw=true" alt="VCEM SETTINGS">
+            <img src="https://raw.githubusercontent.com/marcobackup/VehicleCockpitExtensionModule/main/design/red%20version/home%20-%20speed.png" alt="VCEM SETTINGS">
         </td>
         <td>
-            <img src="https://github.com/marcobackup/VehicleCockpitExtensionModule/blob/main/design/red version/homeRed.png?raw=true" alt="VCEM SETTINGS">
+            <img src="https://raw.githubusercontent.com/marcobackup/VehicleCockpitExtensionModule/main/design/red%20version/home%20-%20speed.png" alt="VCEM SETTINGS">
         </td>
     </tr>
     <tr>
