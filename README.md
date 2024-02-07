@@ -38,11 +38,20 @@ The **processed CAN packets** and the **system settings** are **sent** to the MP
 
 Instead, the **MPU / SoC** takes care of deserializing the can frames and **displaying** them on a UI built with qt creator or **starting some system routines**.
 
+The **transmission protocol** used between units is **UART**.
 
 ## Diagram
-Here's a system diagram to explain the system workflow
+Here's a system diagram to explain the system workflow.
 <h1 align="center">
   <a href="https://github.com/marcobackup/VehicleCockpitExtensionModule/">
     <img src="https://github.com/marcobackup/VehicleCockpitExtensionModule/blob/main/docs/VCEMDiagramWorkflow.png?raw=true" alt="VCEM">
   </a>
 </h1>
+
+## Usage
+_In updating..._
+You can currently watch a demonstration video
+
+## Question?
+Please, feel free to ask questions if something is unclear or you want to learn more. 
+This project is constantly updated so if something is wrong please let me know!
