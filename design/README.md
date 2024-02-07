@@ -10,6 +10,10 @@ You can see different frame of VCEM
         <td>
             <img src="https://raw.githubusercontent.com/marcobackup/VehicleCockpitExtensionModule/main/design/red%20version/home%20-%20rpm.png" alt="VCEM RPM">
         </td>
+    </tr>
+</table>
+<table>
+    <tr>
         <td>
             <img src="https://github.com/marcobackup/VehicleCockpitExtensionModule/blob/main/design/red%20version/user%20settings%20-%20impostazioni.png?raw=true" alt="VCEM SETTINGS">
         </td>
