@@ -47,8 +47,9 @@ This project was born from the idea of ​​being able to make the parameters o
 
 In short, the system consists of two main parts: a **microcontroller unit** (MCU) and a **microprocessor unit / system on chip** (MCU / SoC).
 
-The **MCU** is responsible for **sniffing the packets** from the CAN bus, **processing** them and when necessary **updating the EEPROM** with the system settings.
+The **MCU** is responsible for **sniffing the packets** from the low speed B-CAN bus, **processing** them and when necessary **updating the EEPROM** with the system settings.
 The **processed CAN packets** and the **system settings** are **sent** to the MPU / SoC.
+It also reads incoming data from the MPU / SoC.
 
 Instead, the **MPU / SoC** takes care of deserializing the can frames and **displaying** them on a UI built with qt creator or **starting some system routines**.
 

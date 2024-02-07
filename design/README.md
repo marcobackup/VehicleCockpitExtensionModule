@@ -53,7 +53,7 @@ You can see different frame of VCEM
             <img src="https://raw.githubusercontent.com/marcobackup/VehicleCockpitExtensionModule/main/design/silver%20version/home%20-%20speed.png" alt="VCEM SPEED">
         </td>
         <td>
-            <img src="https://raw.githubusercontent.com/marcobackup/VehicleCockpitExtensionModule/main/design/%20version/home%20-%20rpm.png" alt="VCEM SPEED">
+            <img src="https://raw.githubusercontent.com/marcobackup/VehicleCockpitExtensionModule/main/design/silver%20version/home%20-%20rpm.png" alt="VCEM SPEED">
         </td>
     </tr>
 </table>
