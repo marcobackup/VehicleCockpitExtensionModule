@@ -65,6 +65,7 @@ Here's a system diagram to explain the system workflow.
 
 ## Usage
 You can currently watch a demonstration video
+https://youtube.com/shorts/YbyWsrBbebo?si=RZkPqH19X9Clxu5W
 _In updating..._
 
 ## Question?
