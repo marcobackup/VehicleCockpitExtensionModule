@@ -56,7 +56,7 @@ Instead, the **MPU / SoC** takes care of deserializing the can frames and **disp
 The **transmission protocol** used between units is **UART**.
 
 ## Diagram
-Here's a system diagram to explain the system workflow.
+Here's a diagram to explain the system workflow.
 <h1 align="center">
   <a href="https://github.com/marcobackup/VehicleCockpitExtensionModule/">
     <img src="https://github.com/marcobackup/VehicleCockpitExtensionModule/blob/main/docs/VCEMDiagramWorkflow.png?raw=true" alt="VCEM">
