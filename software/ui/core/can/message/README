@@ -1,0 +1,5 @@
+In this folder you have to upload object classes 
+for each CAN message in order to deserialize
+incoming datas.
+
+I've created dedicated objects for increase data deserializing speed.

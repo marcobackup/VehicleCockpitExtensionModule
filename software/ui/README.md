@@ -1,3 +1,3 @@
-ECM dashboard
+VCEM dashboard
 
-External cockpit module
+Vehicle cockpit extension module dashboard
